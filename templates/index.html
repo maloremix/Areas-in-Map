@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}Raw Form Example{% endblock %}
+
+{% block content %}
+    <form method="POST">
+        <div class="inputs">
+        </div>
+        <button id="btnClick">Добавить поле</button>
+        <button id="btnClick2">Удалить поле</button>
+        <input type="submit" value="Найти участки">
+    </form>
+{% if request.method == 'POST' %}
+<div class="accordion" id="accordionExample">
+  {% for info in infos %}
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading{{loop.index}}">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{loop.index}}" aria-expanded="true" aria-controls="collapse{{loop.index}}">
+        {{info['cn']}}
+      </button>
+    </h2>
+    <div id="collapse{{loop.index}}" class="accordion-collapse collapse" aria-labelledby="heading{{loop.index}}" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        {{info['util_by_doc']}}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<iframe class="map" src="/map" width="600" height="600"></iframe>
+{% endif %}
+{% endblock %}

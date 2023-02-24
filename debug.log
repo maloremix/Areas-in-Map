@@ -1,0 +1,1008 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:28:44] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:28:44] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:28:45] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:28:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1920
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187951.60418952%2C7450664.780463672%2C4187842.60418952%2C7450555.780463672&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%7D&f=json&timestamp=1677256194667
+ERROR:rosreestr2coord.logger:<urlopen error [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение>
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1919
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187933.2559521706%2C7450697.884537907%2C4187851.2559521706%2C7450615.884537907&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%7D&f=json&timestamp=1677256196614
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1457
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187993.68033704%2C7450742.727352505%2C4187806.68033704%2C7450555.727352505&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%7D&f=json&timestamp=1677256198943
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "[35m[1mPOST /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "GET /sign-up?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "GET /sign-up?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "GET /sign-up?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:30:00] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:31:10] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:31:10] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187951.60418952%2C7450664.780463672%2C4187842.60418952%2C7450555.780463672&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%7D&f=json&timestamp=1677256285502
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:32:12] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:32:12] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:33:26] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:33:27] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:33:29] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:33:29] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:03] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:03] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:04] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:05] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:05] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:06] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:06] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:07] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:35:07] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:46] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:48] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:48] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:48] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:48] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:49] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:37:49] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:00] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:00] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:00] "[33mGET /map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:13] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:13] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:13] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:14] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:23] "[33mGET /templates/map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:30] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:30] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:30] "[33mGET /map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:31] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:31] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:31] "[33mGET /map.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:45] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:45] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:46] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:47] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:52] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:52] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:38:52] "[33mGET /map HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:07] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:07] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:07] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:10] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:10] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:10] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:12] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:12] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:47:12] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:57:05] "[33mGET /ыш HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:57:08] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:57:08] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:57:08] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:32] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:32] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:33] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:33] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:51] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 19:59:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:26] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:26] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:44] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:44] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:45] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:50] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:50] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:00:50] "GET /map HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:04:42] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:04:42] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:04:42] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:06:38] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:06:38] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:06:51] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:06:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:06:51] "GET /map HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "[35m[1mPOST /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "GET /sign-up?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "GET /sign-up?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "GET /sign-up?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:37] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:42] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:42] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:45] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:10:45] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:20:55] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:20:55] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:21:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:21:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:24:25] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:24:25] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:24:41] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:24:41] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:27:12] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:27:12] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:29:31] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 20:29:31] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:31:57] "[35m[1mGET /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "[35m[1mGET /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "GET /sign-up?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "GET /sign-up?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "GET /sign-up?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:32:09] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:44] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:44] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:45] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:46] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:33:46] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:34:39] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:34:39] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:34:40] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:34:40] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:49] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:49] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:50] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:50] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:50] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:50] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:51] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:51] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:38:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:26] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:26] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:26] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:26] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:29] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:29] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:30] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:30] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:51] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:52] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:52] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:57] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:40:57] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:44:55] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:44:55] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:44:59] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:44:59] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:02] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:02] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:05] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:05] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:21] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:21] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:26] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:26] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "[35m[1mPOST /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "GET /sign-up?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "GET /sign-up?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "GET /sign-up?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:45:43] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:46:08] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:46:08] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:46:14] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:46:14] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:46:14] "GET /map HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:49:07] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:49:07] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:49:07] "GET /map HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:03] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:03] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:03] "GET /map HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:15] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:15] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:15] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:47] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:47] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:49] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:49] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:50:49] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:55:45] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:55:45] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:55:51] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:55:51] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:55:51] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:56:59] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:56:59] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:03] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:03] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:04] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:04] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:09] "POST /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:09] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:09] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:22] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 21:57:22] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:22] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\map\\examples-forms\\examples-forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:44] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:49] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:49] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:00:49] "GET /map HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-716-502
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:07:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:07:38] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1920
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187951.60418952%2C7450664.780463672%2C4187842.60418952%2C7450555.780463672&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1920%27%22%7D&f=json&timestamp=1677265665510
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2221
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1919
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187933.2559521706%2C7450697.884537907%2C4187851.2559521706%2C7450615.884537907&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1919%27%22%7D&f=json&timestamp=1677265666964
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 2169
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/api/features/1/50:27:20508:1457
+DEBUG:rosreestr2coord.logger:https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/CadastreSelected/MapServer/export?dpi=96&transparent=false&format=png&layers=show%3A0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&bbox=4187993.68033704%2C7450742.727352505%2C4187806.68033704%2C7450555.727352505&bboxSR=102100&imageSR=102100&size=500%2C500&layerDefs=%7B%270%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%271%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%272%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%273%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%274%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%275%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%276%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%277%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%278%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%279%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2710%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2711%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2712%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2713%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2714%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2715%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2716%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2717%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2718%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2719%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%2C+%2720%27%3A+%22ID+%3D+%2750%3A27%3A20508%3A1457%27%22%7D&f=json&timestamp=1677265668960
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'PLTE' 54 6
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 72 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 1500
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:07:50] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:07:50] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2023 22:07:50] "GET /map HTTP/1.1" 200 -
